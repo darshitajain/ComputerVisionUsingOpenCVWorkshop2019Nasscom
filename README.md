@@ -2,7 +2,9 @@
 Slides and a jupyter notebook containing the OpenCV code that were demonstrated during Desicion making in Computer vision workshop organised by NASSCOM
 
 Table of Contents
+
 (0) Installing OpenCV
+
 (1) Basics of OpenCV
 
 1. Reading an image
